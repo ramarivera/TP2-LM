@@ -4,9 +4,12 @@ using System.Linq;
 using System.Text;
 using System.Threading.Tasks;
 
-namespace Ejercicio5
+namespace Ejercicio05
 {
-    class Program
-    {
-    }
+	class Program
+	{
+		static void Main(string[] args)
+		{
+		}
+	}
 }

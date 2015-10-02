@@ -4,11 +4,11 @@
   <PropertyGroup>
     <Configuration Condition=" '$(Configuration)' == '' ">Debug</Configuration>
     <Platform Condition=" '$(Platform)' == '' ">AnyCPU</Platform>
-    <ProjectGuid>{A69FCBE3-8AD0-4299-AD23-0AD033D97A3F}</ProjectGuid>
+    <ProjectGuid>{96B91271-17AD-457B-95AC-8BAE70747558}</ProjectGuid>
     <OutputType>Exe</OutputType>
     <AppDesignerFolder>Properties</AppDesignerFolder>
-    <RootNamespace>Ejercicio5</RootNamespace>
-    <AssemblyName>Ejercicio5</AssemblyName>
+    <RootNamespace>Ejercicio05</RootNamespace>
+    <AssemblyName>Ejercicio05</AssemblyName>
     <TargetFrameworkVersion>v4.5.2</TargetFrameworkVersion>
     <FileAlignment>512</FileAlignment>
     <AutoGenerateBindingRedirects>true</AutoGenerateBindingRedirects>
